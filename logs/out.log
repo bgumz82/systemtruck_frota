@@ -1,0 +1,1685 @@
+2025-02-14T00:10:00: Servidor rodando em http://127.0.0.1:3000
+2025-02-14T00:10:01: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:10:09: Servidor rodando em http://127.0.0.1:3000
+2025-02-14T00:10:09: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:10:20: Servidor rodando em http://127.0.0.1:3000
+2025-02-14T00:10:20: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:13:49: Servidor rodando em http://localhost:3000
+2025-02-14T00:13:49: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:13:49: Servidor rodando em http://localhost:3000
+2025-02-14T00:13:49: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:13:58: Servidor rodando em http://localhost:3000
+2025-02-14T00:13:59: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:14:25: GET /
+2025-02-14T00:14:26: GET /assets/index-DqoUyk8L.js
+2025-02-14T00:14:26: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T00:14:26: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T00:14:26: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T00:14:26: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T00:14:26: GET /assets/index-C1dOCbEu.css
+2025-02-14T00:14:26: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T00:14:26: GET /assets/utils-vendor-C3dWF2Ye.js
+2025-02-14T00:14:27: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T00:14:28: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T00:14:37: POST /api/auth/login
+2025-02-14T00:14:37: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-14T00:14:37: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:38: POST /api/db/query
+2025-02-14T00:14:42: POST /api/db/query
+2025-02-14T00:14:42: POST /api/db/query
+2025-02-14T00:14:47: POST /api/db/query
+2025-02-14T00:14:47: POST /api/db/query
+2025-02-14T00:14:48: POST /api/db/query
+2025-02-14T00:14:49: POST /api/db/query
+2025-02-14T00:14:51: POST /api/db/query
+2025-02-14T00:14:51: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T00:14:51: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T00:15:25: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T00:15:26: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T00:15:26: GET /assets/index-DqoUyk8L.js
+2025-02-14T00:15:26: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T00:15:26: GET /assets/utils-vendor-C3dWF2Ye.js
+2025-02-14T00:15:26: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T00:15:26: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T00:15:26: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T00:15:26: GET /assets/index-C1dOCbEu.css
+2025-02-14T00:15:26: POST /api/auth/verify
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:27: POST /api/db/query
+2025-02-14T00:15:51: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-02-14T00:15:51: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T00:15:57: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T00:20:17: Servidor rodando em http://localhost:3000
+2025-02-14T00:20:17: Servidor rodando em http://localhost:3000
+2025-02-14T00:20:17: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:20:17: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:20:27: Servidor rodando em http://localhost:3000
+2025-02-14T00:20:27: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:20:41: POST /api/db/query
+2025-02-14T00:20:44: GET /funcionarios
+2025-02-14T00:20:44: GET /assets/index-C1dOCbEu.css
+2025-02-14T00:20:44: GET /assets/index-DqoUyk8L.js
+2025-02-14T00:20:44: GET /assets/utils-vendor-C3dWF2Ye.js
+2025-02-14T00:20:44: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T00:20:44: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T00:20:44: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T00:20:44: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T00:20:44: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T00:20:45: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T00:20:45: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T00:20:53: POST /api/auth/login
+2025-02-14T00:20:53: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-14T00:20:53: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:54: POST /api/db/query
+2025-02-14T00:20:57: POST /api/db/query
+2025-02-14T00:20:57: POST /api/db/query
+2025-02-14T00:20:59: POST /api/db/query
+2025-02-14T00:21:02: POST /api/db/query
+2025-02-14T00:21:05: POST /api/db/query
+2025-02-14T00:21:05: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-02-14T00:21:05: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-02-14T00:21:05: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-02-14T00:21:05: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-02-14T00:21:11: POST /api/db/query
+2025-02-14T00:21:11: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T00:21:11: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T00:21:13: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-02-14T00:21:21: POST /api/db/query
+2025-02-14T00:22:14: GET /
+2025-02-14T00:22:18: POST /api/auth/login
+2025-02-14T00:22:18: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T00:22:19: Senha inválida para: mobile@ferrazflorestal.com.br
+2025-02-14T00:22:32: POST /api/auth/login
+2025-02-14T00:22:32: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T00:22:33: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-14T00:22:33: POST /api/db/query
+2025-02-14T00:22:44: POST /api/db/query
+2025-02-14T00:22:46: POST /api/db/query
+2025-02-14T00:22:52: POST /api/db/query
+2025-02-14T00:22:52: POST /api/db/query
+2025-02-14T00:22:52: POST /api/db/query
+2025-02-14T00:22:52: POST /api/db/query
+2025-02-14T00:23:33: POST /api/db/query
+2025-02-14T00:23:34: POST /api/db/query
+2025-02-14T00:23:35: POST /api/db/query
+2025-02-14T00:23:35: POST /api/db/query
+2025-02-14T00:23:36: POST /api/db/query
+2025-02-14T00:23:55: POST /api/auth/login
+2025-02-14T00:23:55: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T00:23:55: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T00:23:56: POST /api/db/query
+2025-02-14T00:23:56: POST /api/db/query
+2025-02-14T00:24:02: POST /api/db/query
+2025-02-14T00:24:02: POST /api/db/query
+2025-02-14T00:24:19: POST /api/db/query
+2025-02-14T00:24:31: POST /api/db/query
+2025-02-14T00:24:31: POST /api/db/query
+2025-02-14T00:24:34: POST /api/db/query
+2025-02-14T00:24:34: POST /api/db/query
+2025-02-14T00:24:43: POST /api/db/query
+2025-02-14T00:24:46: POST /api/db/query
+2025-02-14T00:24:59: POST /api/db/query
+2025-02-14T00:24:59: POST /api/db/query
+2025-02-14T00:25:02: POST /api/db/query
+2025-02-14T00:25:38: POST /api/db/query
+2025-02-14T00:25:41: POST /api/db/query
+2025-02-14T00:25:42: POST /api/db/query
+2025-02-14T00:25:48: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:25:56: POST /api/db/query
+2025-02-14T00:26:07: GET /
+2025-02-14T00:26:08: POST /api/auth/verify
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:26:08: POST /api/db/query
+2025-02-14T00:29:27: Servidor rodando em http://localhost:3000
+2025-02-14T00:29:27: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:29:27: Servidor rodando em http://localhost:3000
+2025-02-14T00:29:27: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:29:37: Servidor rodando em http://localhost:3000
+2025-02-14T00:29:37: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:30:00: GET /
+2025-02-14T00:30:00: POST /api/auth/verify
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:30:01: POST /api/db/query
+2025-02-14T00:33:14: Servidor rodando em http://localhost:3000
+2025-02-14T00:33:14: Servidor rodando em http://localhost:3000
+2025-02-14T00:33:14: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:33:14: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:33:23: Servidor rodando em http://localhost:3000
+2025-02-14T00:33:23: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:34:13: POST /api/auth/login
+2025-02-14T00:34:13: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T00:34:14: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T00:34:14: POST /api/db/query
+2025-02-14T00:34:14: POST /api/db/query
+2025-02-14T00:34:42: GET /
+2025-02-14T00:34:42: GET /assets/index-COOierQ8.js
+2025-02-14T00:34:42: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T00:34:43: POST /api/auth/verify
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:43: POST /api/db/query
+2025-02-14T00:34:48: POST /api/db/query
+2025-02-14T00:34:48: POST /api/db/query
+2025-02-14T00:34:48: POST /api/db/query
+2025-02-14T00:39:33: Servidor rodando em http://localhost:3000
+2025-02-14T00:39:33: Servidor rodando em http://localhost:3000
+2025-02-14T00:39:33: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:39:33: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:39:43: Servidor rodando em http://localhost:3000
+2025-02-14T00:39:44: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:48: POST /api/db/query
+2025-02-14T00:39:50: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T00:39:50: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T00:39:58: POST /api/auth/login
+2025-02-14T00:39:58: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-14T00:39:59: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-14T00:40:04: POST /api/db/query
+2025-02-14T00:40:04: POST /api/db/query
+2025-02-14T00:40:13: POST /api/db/query
+2025-02-14T00:40:14: POST /api/db/query
+2025-02-14T00:40:22: POST /api/db/query
+2025-02-14T00:40:22: POST /api/db/query
+2025-02-14T00:40:31: POST /api/db/query
+2025-02-14T00:40:37: POST /api/db/query
+2025-02-14T00:40:38: POST /api/db/query
+2025-02-14T00:40:40: POST /api/db/query
+2025-02-14T00:40:40: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T00:40:40: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T00:40:42: POST /api/db/query
+2025-02-14T00:40:45: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-02-14T00:46:06: Servidor rodando em http://localhost:3000
+2025-02-14T00:46:06: Servidor rodando em http://localhost:3000
+2025-02-14T00:46:06: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:46:06: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T00:46:16: Servidor rodando em http://localhost:3000
+2025-02-14T00:46:17: Conexão com o banco de dados estabelecida com sucesso
+2025-02-14T01:05:29: GET /
+2025-02-14T01:05:29: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T01:05:29: GET /assets/index-mZjD7jan.js
+2025-02-14T01:05:29: GET /assets/index-C1dOCbEu.css
+2025-02-14T01:05:29: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T01:05:29: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T01:05:29: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T01:05:29: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T01:05:29: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T01:05:31: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T01:05:31: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T01:05:35: POST /api/auth/login
+2025-02-14T01:05:35: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T01:05:35: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T01:05:36: POST /api/db/query
+2025-02-14T01:05:36: POST /api/db/query
+2025-02-14T01:05:49: POST /api/auth/login
+2025-02-14T01:05:49: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T01:05:50: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T01:05:50: POST /api/db/query
+2025-02-14T01:05:59: POST /api/auth/login
+2025-02-14T01:05:59: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T01:06:00: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-14T01:06:00: POST /api/db/query
+2025-02-14T01:08:48: GET /m/abastecimento
+2025-02-14T01:08:48: GET /m/login
+2025-02-14T01:08:49: GET /m/checklist
+2025-02-14T01:08:51: POST /api/auth/login
+2025-02-14T01:08:51: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T01:08:52: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-14T01:08:52: POST /api/db/query
+2025-02-14T01:09:06: POST /api/db/query
+2025-02-14T01:18:44: POST /api/db/query
+2025-02-14T01:26:32: POST /api/db/query
+2025-02-14T01:26:32: POST /api/db/query
+2025-02-14T01:28:15: POST /api/db/query
+2025-02-14T01:28:15: POST /api/db/query
+2025-02-14T01:33:07: POST /api/db/query
+2025-02-14T01:33:07: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:36: POST /api/db/query
+2025-02-14T01:46:41: POST /api/db/query
+2025-02-14T01:46:41: POST /api/db/query
+2025-02-14T01:46:44: POST /api/db/query
+2025-02-14T01:46:54: GET /login
+2025-02-14T01:46:54: GET /assets/index-mZjD7jan.js
+2025-02-14T01:46:54: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T01:46:54: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T01:46:54: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T01:46:54: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T01:46:54: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T01:46:54: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T01:46:54: GET /assets/index-C1dOCbEu.css
+2025-02-14T02:32:20: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T02:32:20: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T08:21:45: GET /login
+2025-02-14T08:21:45: GET /assets/index-mZjD7jan.js
+2025-02-14T08:21:45: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T08:21:45: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T08:21:45: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T08:21:45: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T08:21:45: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T08:21:45: GET /assets/index-C1dOCbEu.css
+2025-02-14T08:21:45: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T08:21:46: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T08:21:46: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T08:21:49: POST /api/auth/login
+2025-02-14T08:21:49: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-02-14T08:21:49: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-02-14T11:03:56: POST /api/auth/login
+2025-02-14T11:03:56: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T11:03:56: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-14T11:03:57: POST /api/db/query
+2025-02-14T11:04:26: GET /m/login
+2025-02-14T11:04:30: POST /api/auth/login
+2025-02-14T11:04:30: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-14T11:04:30: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:31: POST /api/db/query
+2025-02-14T11:04:36: POST /api/db/query
+2025-02-14T11:04:41: POST /api/db/query
+2025-02-14T11:04:41: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T11:04:41: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T11:04:53: GET /login
+2025-02-14T11:04:57: POST /api/auth/login
+2025-02-14T11:04:57: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-14T11:04:58: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-14T11:04:58: POST /api/db/query
+2025-02-14T11:06:48: GET /
+2025-02-14T11:06:48: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T11:06:48: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T11:06:48: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T11:06:48: GET /assets/index-C1dOCbEu.css
+2025-02-14T11:06:48: GET /assets/index-mZjD7jan.js
+2025-02-14T11:06:48: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T11:06:48: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T11:06:48: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T11:06:50: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T11:06:58: POST /api/auth/login
+2025-02-14T11:06:58: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T11:06:59: Senha inválida para: fuel@ferrazflorestal.com.br
+2025-02-14T11:07:07: POST /api/auth/login
+2025-02-14T11:07:07: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T11:07:08: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T11:07:08: POST /api/db/query
+2025-02-14T11:07:08: POST /api/db/query
+2025-02-14T11:07:39: POST /api/auth/login
+2025-02-14T11:07:39: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T11:07:39: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T11:07:40: POST /api/db/query
+2025-02-14T11:08:07: POST /api/auth/login
+2025-02-14T11:08:07: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-14T11:08:07: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-14T11:08:07: POST /api/db/query
+2025-02-14T12:46:28: GET /
+2025-02-14T12:46:28: GET /assets/index-mZjD7jan.js
+2025-02-14T12:46:28: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T12:46:29: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T12:46:39: POST /api/auth/login
+2025-02-14T12:46:39: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-14T12:46:40: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:40: POST /api/db/query
+2025-02-14T12:46:53: POST /api/db/query
+2025-02-14T12:46:54: POST /api/db/query
+2025-02-14T12:46:54: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-14T12:46:54: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-14T12:46:57: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-02-14T12:47:01: POST /api/db/query
+2025-02-14T12:47:02: POST /api/db/query
+2025-02-14T12:47:02: POST /api/db/query
+2025-02-14T12:47:03: POST /api/db/query
+2025-02-14T12:47:05: POST /api/db/query
+2025-02-14T12:47:08: POST /api/db/query
+2025-02-14T12:47:08: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-02-14T12:47:08: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-02-14T12:47:08: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-02-14T12:47:08: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-02-14T12:48:17: POST /api/db/query
+2025-02-14T13:08:16: GET /login
+2025-02-14T13:08:16: GET /assets/index-mZjD7jan.js
+2025-02-14T13:08:16: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-14T13:08:16: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-14T13:08:16: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-14T13:08:16: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-14T13:08:16: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-14T13:08:16: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-14T13:08:16: GET /assets/index-C1dOCbEu.css
+2025-02-14T13:08:17: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-14T13:08:18: GET /assets/vite-A9Lf-F21.svg
+2025-02-14T13:08:19: POST /api/auth/login
+2025-02-14T13:08:19: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-02-14T13:08:20: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-02-14T13:08:29: POST /api/auth/login
+2025-02-14T13:08:29: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-02-14T13:08:29: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-02-16T17:24:42: GET /
+2025-02-16T17:24:43: GET /assets/index-mZjD7jan.js
+2025-02-16T17:24:43: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-16T17:24:43: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-16T17:24:43: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-16T17:24:43: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-16T17:24:43: GET /assets/index-C1dOCbEu.css
+2025-02-16T17:24:43: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-16T17:24:43: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-16T17:24:43: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-16T17:24:51: POST /api/auth/login
+2025-02-16T17:24:51: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-16T17:24:52: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-16T17:24:52: POST /api/db/query
+2025-02-16T17:24:52: POST /api/db/query
+2025-02-16T17:25:11: POST /api/auth/login
+2025-02-16T17:25:11: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-16T17:25:12: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-16T17:25:12: POST /api/db/query
+2025-02-17T00:15:41: GET /
+2025-02-17T00:15:42: GET /assets/index-mZjD7jan.js
+2025-02-17T00:15:42: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-17T00:15:42: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-17T00:15:42: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T00:15:42: GET /assets/index-C1dOCbEu.css
+2025-02-17T00:15:42: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-17T00:15:42: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T00:15:42: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T00:15:42: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-17T01:41:37: GET /API
+2025-02-17T01:41:37: GET /assets/index-C1dOCbEu.css
+2025-02-17T01:41:37: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-17T01:41:37: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-17T01:41:37: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T01:41:37: GET /assets/index-mZjD7jan.js
+2025-02-17T01:41:37: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T01:41:37: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T01:41:37: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-17T01:41:38: GET /assets/vite-A9Lf-F21.svg
+2025-02-17T01:41:38: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-17T01:41:45: GET /api
+2025-02-17T01:42:01: GET /api/database/query
+2025-02-17T01:44:33: GET /favicon.ico
+2025-02-17T03:43:44: GET /
+2025-02-17T03:43:44: GET /assets/index-mZjD7jan.js
+2025-02-17T03:43:44: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-17T03:43:44: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T03:43:44: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-17T03:43:44: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T03:43:44: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-17T03:43:44: GET /assets/index-C1dOCbEu.css
+2025-02-17T03:43:44: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T03:43:46: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-17T03:44:02: POST /api/auth/login
+2025-02-17T03:44:02: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-17T03:44:03: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:03: POST /api/db/query
+2025-02-17T03:44:06: POST /api/db/query
+2025-02-17T03:44:06: POST /api/db/query
+2025-02-17T03:44:21: POST /api/auth/login
+2025-02-17T03:44:21: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-17T03:44:21: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-17T03:44:23: POST /api/db/query
+2025-02-17T03:58:32: POST /api/db/query
+2025-02-17T08:02:07: GET /login
+2025-02-17T08:02:07: GET /assets/index-mZjD7jan.js
+2025-02-17T08:02:07: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T08:02:07: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-17T08:02:07: GET /assets/index-C1dOCbEu.css
+2025-02-17T08:02:07: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-17T08:02:07: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T08:02:07: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-17T08:02:07: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T08:02:08: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-17T08:02:08: GET /assets/vite-A9Lf-F21.svg
+2025-02-17T10:14:52: GET /
+2025-02-17T10:14:52: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-17T10:14:52: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-17T10:14:52: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T10:14:52: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-17T10:14:52: GET /assets/index-mZjD7jan.js
+2025-02-17T10:14:52: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T10:14:52: GET /assets/index-C1dOCbEu.css
+2025-02-17T10:14:52: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T10:14:53: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-17T10:14:53: GET /assets/vite-A9Lf-F21.svg
+2025-02-17T10:15:00: POST /api/auth/login
+2025-02-17T10:15:00: Tentativa de login para: logistica@florestalferraz.com.br
+2025-02-17T10:15:00: Usuário não encontrado: logistica@florestalferraz.com.br
+2025-02-17T15:21:22: GET /login
+2025-02-17T15:21:22: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-17T15:21:22: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-17T15:21:22: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-17T15:21:22: GET /assets/index-C1dOCbEu.css
+2025-02-17T22:36:13: Servidor rodando em http://localhost:3000
+2025-02-17T22:36:13: Conexão com o banco de dados estabelecida com sucesso
+2025-02-17T22:36:21: Servidor rodando em http://localhost:3000
+2025-02-17T22:36:21: Conexão com o banco de dados estabelecida com sucesso
+2025-02-17T22:36:32: Servidor rodando em http://localhost:3000
+2025-02-17T22:36:32: Conexão com o banco de dados estabelecida com sucesso
+2025-02-18T01:38:35: GET /
+2025-02-18T01:38:35: GET /assets/index-mZjD7jan.js
+2025-02-18T01:38:35: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-18T01:38:35: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-18T01:38:35: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-18T01:38:35: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-18T01:38:35: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-18T01:38:35: GET /assets/index-C1dOCbEu.css
+2025-02-18T01:38:35: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-18T01:38:36: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-18T01:38:36: GET /assets/vite-A9Lf-F21.svg
+2025-02-18T01:38:38: POST /api/auth/login
+2025-02-18T01:38:38: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-18T01:38:39: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-18T01:38:39: POST /api/db/query
+2025-02-19T23:33:17: GET /
+2025-02-19T23:59:29: GET /
+2025-02-19T23:59:31: GET /assets/index-C1dOCbEu.css
+2025-02-19T23:59:32: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-19T23:59:32: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-19T23:59:32: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-19T23:59:32: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-19T23:59:33: GET /assets/index-mZjD7jan.js
+2025-02-19T23:59:34: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-19T23:59:34: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-19T23:59:36: GET /assets/vite-A9Lf-F21.svg
+2025-02-19T23:59:36: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-20T00:00:11: POST /api/auth/login
+2025-02-20T00:00:11: Tentativa de login para: mobile@florestalferraz.com.br
+2025-02-20T00:00:12: Usuário não encontrado: mobile@florestalferraz.com.br
+2025-02-20T00:00:25: POST /api/auth/login
+2025-02-20T00:00:25: Tentativa de login para: mobile@florestalferraz.com.br
+2025-02-20T00:00:25: Usuário não encontrado: mobile@florestalferraz.com.br
+2025-02-20T00:00:38: POST /api/auth/login
+2025-02-20T00:00:38: Tentativa de login para: mobile@florestalferraz.com.br
+2025-02-20T00:00:38: Usuário não encontrado: mobile@florestalferraz.com.br
+2025-02-20T00:00:56: POST /api/auth/login
+2025-02-20T00:00:56: Tentativa de login para: mobile@florestalferraz.com.br
+2025-02-20T00:00:56: Usuário não encontrado: mobile@florestalferraz.com.br
+2025-02-20T00:01:12: POST /api/auth/login
+2025-02-20T00:01:12: Tentativa de login para: fuel@florestalferraz.com.br
+2025-02-20T00:01:12: Usuário não encontrado: fuel@florestalferraz.com.br
+2025-02-20T00:01:25: GET /
+2025-02-20T00:01:26: GET /assets/index-mZjD7jan.js
+2025-02-20T00:01:26: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-20T00:01:26: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-20T00:01:26: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-20T00:01:26: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-20T00:01:26: GET /assets/index-C1dOCbEu.css
+2025-02-20T00:01:26: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-20T00:01:26: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-20T00:01:27: GET /assets/vite-A9Lf-F21.svg
+2025-02-20T00:01:27: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-20T00:01:38: POST /api/auth/login
+2025-02-20T00:01:38: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-20T00:01:39: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:01:39: POST /api/db/query
+2025-02-20T00:02:20: POST /api/auth/login
+2025-02-20T00:02:20: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-02-20T00:02:20: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-02-20T00:02:21: POST /api/db/query
+2025-02-20T00:02:22: POST /api/db/query
+2025-02-20T00:02:40: POST /api/auth/login
+2025-02-20T00:02:40: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-20T00:02:40: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-20T00:02:49: POST /api/db/query
+2025-02-20T00:02:54: POST /api/db/query
+2025-02-20T00:02:54: POST /api/db/query
+2025-02-20T00:03:09: POST /api/db/query
+2025-02-20T00:10:00: POST /api/db/query
+2025-02-21T09:38:17: GET /
+2025-02-21T09:38:17: GET /assets/index-mZjD7jan.js
+2025-02-21T09:38:17: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-21T09:38:17: GET /assets/index-C1dOCbEu.css
+2025-02-21T09:38:17: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-21T09:38:17: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-21T09:38:17: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-21T09:38:17: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-21T09:38:17: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-21T09:38:18: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-21T09:38:35: POST /api/auth/login
+2025-02-21T09:38:35: Tentativa de login para: logistica@florestalferraz.com.br
+2025-02-21T09:38:36: Usuário não encontrado: logistica@florestalferraz.com.br
+2025-02-21T13:46:52: GET /login
+2025-02-21T13:46:52: GET /assets/index-mZjD7jan.js
+2025-02-21T13:46:52: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-21T13:46:52: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-21T13:46:52: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-21T13:46:52: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-21T13:46:52: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-21T13:46:52: GET /assets/index-C1dOCbEu.css
+2025-02-21T13:46:52: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-21T13:46:54: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-21T13:46:54: GET /assets/vite-A9Lf-F21.svg
+2025-02-21T15:42:31: POST /api/auth/login
+2025-02-21T15:42:31: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-02-21T15:42:32: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-02-21T16:14:32: GET /
+2025-02-21T16:14:32: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-21T16:14:32: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-21T16:14:32: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-21T16:14:32: GET /assets/index-mZjD7jan.js
+2025-02-21T16:14:32: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-21T16:14:32: GET /assets/index-C1dOCbEu.css
+2025-02-21T16:14:32: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-21T16:14:32: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-21T16:14:33: POST /api/auth/verify
+2025-02-21T16:14:33: GET /assets/vite-A9Lf-F21.svg
+2025-02-21T16:14:33: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-21T16:14:36: POST /api/auth/login
+2025-02-21T16:14:36: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-21T16:14:37: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-21T16:14:37: POST /api/db/query
+2025-02-23T23:03:50: GET /
+2025-02-23T23:03:50: GET /assets/index-mZjD7jan.js
+2025-02-23T23:03:50: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-23T23:03:50: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-23T23:03:50: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-23T23:03:50: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-23T23:03:50: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-23T23:03:50: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-23T23:03:51: GET /assets/index-C1dOCbEu.css
+2025-02-23T23:03:51: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-23T23:03:54: POST /api/auth/login
+2025-02-23T23:03:54: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-02-23T23:03:57: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-02-23T23:03:57: POST /api/db/query
+2025-02-24T23:59:49: GET /
+2025-02-24T23:59:50: GET /assets/index-mZjD7jan.js
+2025-02-24T23:59:50: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-24T23:59:50: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-24T23:59:50: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-24T23:59:50: GET /assets/index-C1dOCbEu.css
+2025-02-24T23:59:50: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-24T23:59:50: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-24T23:59:50: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-24T23:59:51: GET /assets/vite-A9Lf-F21.svg
+2025-02-24T23:59:52: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-24T23:59:57: POST /api/auth/login
+2025-02-24T23:59:57: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-25T00:00:00: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:00: POST /api/db/query
+2025-02-25T00:00:03: POST /api/db/query
+2025-02-25T00:02:28: POST /api/db/query
+2025-02-25T00:02:30: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-25T00:02:30: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-25T12:57:25: GET /
+2025-02-25T12:57:25: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-25T12:57:25: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-25T12:57:25: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-25T12:57:25: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-25T12:57:25: GET /assets/index-mZjD7jan.js
+2025-02-25T12:57:26: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-25T12:57:25: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-25T12:57:25: GET /assets/index-C1dOCbEu.css
+2025-02-25T12:57:27: GET /assets/vite-A9Lf-F21.svg
+2025-02-25T12:57:27: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:47:28: POST /api/db/query
+2025-02-25T20:49:35: GET /favicon.ico
+2025-02-25T22:29:46: POST /api/auth/verify
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:29:46: POST /api/db/query
+2025-02-25T22:54:15: GET /assets/frota/splash.png
+2025-02-25T22:54:16: GET /favicon.ico
+2025-02-25T22:57:22: GET /assets/frota/favicon.png
+2025-02-25T22:57:52: GET /assets/frota/logo.png
+2025-02-25T23:02:21: GET /assets/frota/logo.png
+2025-02-25T23:03:12: GET /assets/frota/logo.png
+2025-02-25T23:03:30: GET /assets/frota/logo.png
+2025-02-25T23:04:24: GET /assets/frota/logo.png
+2025-02-25T23:05:18: GET /assets/frota/logo.png
+2025-02-25T23:05:26: GET /assets/frota/logo.png
+2025-02-25T23:07:18: GET /assets/frota/logo.png
+2025-02-25T23:07:41: GET /assets/frota/logo.png
+2025-02-25T23:22:04: POST /api/auth/login
+2025-02-25T23:22:04: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-25T23:22:04: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:05: POST /api/db/query
+2025-02-25T23:22:11: POST /api/db/query
+2025-02-25T23:22:11: POST /api/db/query
+2025-02-25T23:23:20: POST /api/db/query
+2025-02-25T23:23:20: POST /api/db/query
+2025-02-25T23:25:01: POST /api/db/query
+2025-02-25T23:25:01: POST /api/db/query
+2025-02-25T23:28:33: POST /api/db/query
+2025-02-25T23:28:34: POST /api/db/query
+2025-02-25T23:28:34: POST /api/db/query
+2025-02-25T23:34:50: POST /api/db/query
+2025-02-25T23:34:50: POST /api/db/query
+2025-02-25T23:34:50: POST /api/db/query
+2025-02-25T23:34:55: POST /api/db/query
+2025-02-25T23:34:56: POST /api/db/query
+2025-02-25T23:34:57: POST /api/db/query
+2025-02-25T23:34:59: POST /api/db/query
+2025-02-26T00:04:11: POST /api/db/query
+2025-02-26T00:04:11: POST /api/db/query
+2025-02-26T00:04:11: POST /api/db/query
+2025-02-26T00:12:32: POST /api/db/query
+2025-02-26T00:12:32: POST /api/db/query
+2025-02-26T00:12:32: POST /api/db/query
+2025-02-26T00:16:49: POST /api/db/query
+2025-02-26T00:16:51: POST /api/db/query
+2025-02-26T00:16:51: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-26T00:16:51: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-26T00:16:53: POST /api/db/query
+2025-02-26T00:16:53: POST /api/db/query
+2025-02-26T00:16:55: POST /api/db/query
+2025-02-26T00:16:57: POST /api/db/query
+2025-02-26T00:16:57: POST /api/db/query
+2025-02-26T00:16:59: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T00:17:02: POST /api/db/query
+2025-02-26T01:09:39: POST /api/db/query
+2025-02-26T01:09:39: POST /api/db/query
+2025-02-26T01:09:39: POST /api/db/query
+2025-02-26T01:12:45: POST /api/db/query
+2025-02-26T01:12:45: POST /api/db/query
+2025-02-26T01:12:45: POST /api/db/query
+2025-02-26T01:12:51: POST /api/db/query
+2025-02-26T01:13:02: POST /api/db/query
+2025-02-26T01:13:09: POST /api/db/query
+2025-02-26T01:13:12: POST /api/db/query
+2025-02-26T01:13:15: POST /api/db/query
+2025-02-26T01:13:15: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-02-26T01:13:15: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-02-26T01:13:15: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-02-26T01:13:15: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-02-27T23:20:10: GET /assets/frota/favicon.png
+2025-02-28T00:43:57: GET /
+2025-02-28T00:43:57: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-28T00:43:57: GET /assets/index-C1dOCbEu.css
+2025-02-28T00:43:57: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-28T00:43:57: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-28T00:43:57: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-28T00:43:57: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-28T00:43:57: GET /assets/index-mZjD7jan.js
+2025-02-28T00:43:57: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-28T00:43:58: GET /assets/vite-A9Lf-F21.svg
+2025-02-28T00:43:58: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-28T00:44:04: POST /api/auth/login
+2025-02-28T00:44:04: Tentativa de login para: bruno@systemtruck.com.br
+2025-02-28T00:44:04: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:04: POST /api/db/query
+2025-02-28T00:44:06: POST /api/db/query
+2025-02-28T00:44:06: POST /api/db/query
+2025-02-28T00:44:06: POST /api/db/query
+2025-02-28T00:52:10: POST /api/db/query
+2025-02-28T00:52:10: POST /api/db/query
+2025-02-28T00:52:10: POST /api/db/query
+2025-02-28T00:52:11: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:15: POST /api/db/query
+2025-02-28T00:52:21: POST /api/db/query
+2025-02-28T00:52:23: POST /api/db/query
+2025-02-28T00:52:23: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-02-28T00:52:23: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-02-28T00:52:25: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-02-28T00:53:12: POST /api/db/query
+2025-02-28T00:53:12: POST /api/db/query
+2025-02-28T00:53:22: POST /api/db/query
+2025-02-28T00:53:30: POST /api/db/query
+2025-02-28T00:53:41: POST /api/db/query
+2025-02-28T00:53:55: POST /api/db/query
+2025-02-28T00:53:58: POST /api/db/query
+2025-02-28T01:43:55: POST /api/db/query
+2025-02-28T01:44:03: POST /api/db/query
+2025-02-28T01:53:26: GET /assets/frota/adaptive-icon.png
+2025-02-28T01:53:26: GET /assets/frota/splash.png
+2025-02-28T01:53:26: GET /assets/frota/icon.png
+2025-02-28T01:53:32: GET /assets/frota/splash.png
+2025-02-28T01:53:32: GET /assets/frota/splash.png
+2025-02-28T01:53:32: GET /assets/frota/splash.png
+2025-02-28T01:53:32: GET /assets/frota/splash.png
+2025-02-28T01:53:32: GET /assets/frota/splash.png
+2025-02-28T02:16:43: GET /assets/frota/splash.png
+2025-02-28T02:16:43: GET /assets/frota/icon.png
+2025-02-28T02:16:43: GET /assets/frota/adaptive-icon.png
+2025-02-28T02:16:48: GET /assets/frota/splash.png
+2025-02-28T02:16:48: GET /assets/frota/splash.png
+2025-02-28T02:16:48: GET /assets/frota/splash.png
+2025-02-28T02:16:48: GET /assets/frota/splash.png
+2025-02-28T02:16:48: GET /assets/frota/splash.png
+2025-02-28T07:54:07: POST /api/db/query
+2025-02-28T14:20:57: GET /
+2025-02-28T14:20:58: GET /assets/index-mZjD7jan.js
+2025-02-28T14:20:58: GET /assets/index-C1dOCbEu.css
+2025-02-28T14:20:58: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-28T14:20:58: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-28T14:20:58: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-28T14:20:58: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-28T14:20:58: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-28T14:20:58: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-28T14:20:59: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-28T14:20:59: GET /assets/vite-A9Lf-F21.svg
+2025-02-28T21:13:53: GET /
+2025-02-28T21:13:53: GET /assets/index-mZjD7jan.js
+2025-02-28T21:13:53: GET /assets/utils-vendor-J5hPHYbm.js
+2025-02-28T21:13:53: GET /assets/ui-vendor-D5EC1GQd.js
+2025-02-28T21:13:53: GET /assets/react-vendor-CboZNNVJ.js
+2025-02-28T21:13:53: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-02-28T21:13:53: GET /assets/qr-vendor-BCBjzFLe.js
+2025-02-28T21:13:53: GET /assets/index-C1dOCbEu.css
+2025-02-28T21:13:53: GET /assets/data-vendor-C_Zz7AX9.js
+2025-02-28T21:13:54: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-02-28T21:13:54: GET /assets/vite-A9Lf-F21.svg
+2025-03-02T17:11:47: GET /veiculos
+2025-03-02T17:11:48: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-02T17:11:48: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-02T17:11:48: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-02T17:11:48: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-02T17:11:48: GET /assets/index-mZjD7jan.js
+2025-03-02T17:11:48: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-02T17:11:48: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-02T17:11:48: GET /assets/index-C1dOCbEu.css
+2025-03-02T17:11:48: POST /api/auth/verify
+2025-03-02T17:11:49: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-02T17:11:56: POST /api/auth/login
+2025-03-02T17:11:56: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-02T17:11:56: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:11:56: POST /api/db/query
+2025-03-02T17:12:01: POST /api/db/query
+2025-03-02T17:12:01: POST /api/db/query
+2025-03-02T17:12:01: POST /api/db/query
+2025-03-02T17:13:26: POST /api/db/query
+2025-03-02T17:13:26: POST /api/db/query
+2025-03-02T17:13:26: POST /api/db/query
+2025-03-02T17:34:11: GET /assets/frota/splash.png
+2025-03-02T17:34:11: GET /assets/frota/icon.png
+2025-03-02T17:34:11: GET /assets/frota/adaptive-icon.png
+2025-03-02T17:34:16: GET /assets/frota/splash.png
+2025-03-02T17:34:16: GET /assets/frota/splash.png
+2025-03-02T17:34:16: GET /assets/frota/splash.png
+2025-03-02T17:34:16: GET /assets/frota/splash.png
+2025-03-02T17:34:16: GET /assets/frota/splash.png
+2025-03-02T17:58:02: POST /api/db/query
+2025-03-02T18:04:07: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T18:04:25: POST /api/db/query
+2025-03-02T19:12:33: GET /assets/frota/splash.png
+2025-03-02T19:12:33: GET /assets/frota/adaptive-icon.png
+2025-03-02T19:12:33: GET /assets/frota/icon.png
+2025-03-02T19:12:38: GET /assets/frota/splash.png
+2025-03-02T19:12:38: GET /assets/frota/splash.png
+2025-03-02T19:12:38: GET /assets/frota/splash.png
+2025-03-02T19:12:38: GET /assets/frota/splash.png
+2025-03-02T19:12:38: GET /assets/frota/splash.png
+2025-03-02T19:38:50: GET /assets/frota/splash.png
+2025-03-02T19:38:50: GET /assets/frota/icon.png
+2025-03-02T19:38:50: GET /assets/frota/adaptive-icon.png
+2025-03-02T19:38:56: GET /assets/frota/splash.png
+2025-03-02T19:38:56: GET /assets/frota/splash.png
+2025-03-02T19:38:56: GET /assets/frota/splash.png
+2025-03-02T19:38:56: GET /assets/frota/splash.png
+2025-03-02T19:38:56: GET /assets/frota/splash.png
+2025-03-02T20:22:38: POST /api/db/query
+2025-03-02T20:34:08: GET /assets/frota/adaptive-icon.png
+2025-03-02T20:34:08: GET /assets/frota/splash.png
+2025-03-02T20:34:08: GET /assets/frota/icon.png
+2025-03-02T20:34:14: GET /assets/frota/splash.png
+2025-03-02T20:34:14: GET /assets/frota/splash.png
+2025-03-02T20:34:14: GET /assets/frota/splash.png
+2025-03-02T20:34:14: GET /assets/frota/splash.png
+2025-03-02T20:34:14: GET /assets/frota/splash.png
+2025-03-02T21:01:37: POST /api/db/query
+2025-03-02T21:15:11: GET /assets/frota/splash.png
+2025-03-02T21:15:11: GET /assets/frota/icon.png
+2025-03-02T21:15:11: GET /assets/frota/adaptive-icon.png
+2025-03-02T21:15:17: GET /assets/frota/splash.png
+2025-03-02T21:15:17: GET /assets/frota/splash.png
+2025-03-02T21:15:17: GET /assets/frota/splash.png
+2025-03-02T21:15:17: GET /assets/frota/splash.png
+2025-03-02T21:15:17: GET /assets/frota/splash.png
+2025-03-02T22:04:47: GET /assets/frota/icon.png
+2025-03-02T22:04:47: GET /assets/frota/splash.png
+2025-03-02T22:04:47: GET /assets/frota/adaptive-icon.png
+2025-03-02T22:04:52: GET /assets/frota/splash.png
+2025-03-02T22:04:52: GET /assets/frota/splash.png
+2025-03-02T22:04:52: GET /assets/frota/splash.png
+2025-03-02T22:04:52: GET /assets/frota/splash.png
+2025-03-02T22:04:52: GET /assets/frota/splash.png
+2025-03-02T22:46:52: POST /api/db/query
+2025-03-02T22:53:59: POST /api/db/query
+2025-03-02T22:58:45: GET /assets/frota/splash.png
+2025-03-02T22:58:45: GET /assets/frota/icon.png
+2025-03-02T22:58:45: GET /assets/frota/adaptive-icon.png
+2025-03-02T22:58:49: GET /assets/frota/splash.png
+2025-03-02T22:58:49: GET /assets/frota/splash.png
+2025-03-02T22:58:49: GET /assets/frota/splash.png
+2025-03-02T22:58:49: GET /assets/frota/splash.png
+2025-03-02T22:58:49: GET /assets/frota/splash.png
+2025-03-02T23:06:08: GET /assets/frota/icon.png
+2025-03-02T23:06:08: GET /assets/frota/splash.png
+2025-03-02T23:06:08: GET /assets/frota/adaptive-icon.png
+2025-03-02T23:06:13: GET /assets/frota/splash.png
+2025-03-02T23:06:13: GET /assets/frota/splash.png
+2025-03-02T23:06:13: GET /assets/frota/splash.png
+2025-03-02T23:06:13: GET /assets/frota/splash.png
+2025-03-02T23:06:13: GET /assets/frota/splash.png
+2025-03-02T23:59:24: GET /assets/frota/splash.png
+2025-03-02T23:59:24: GET /assets/frota/icon.png
+2025-03-02T23:59:24: GET /assets/frota/adaptive-icon.png
+2025-03-02T23:59:30: GET /assets/frota/splash.png
+2025-03-02T23:59:30: GET /assets/frota/splash.png
+2025-03-02T23:59:30: GET /assets/frota/splash.png
+2025-03-02T23:59:30: GET /assets/frota/splash.png
+2025-03-02T23:59:30: GET /assets/frota/splash.png
+2025-03-03T00:23:06: POST /api/db/query
+2025-03-03T01:11:31: GET /assets/frota/splash.png
+2025-03-03T01:11:31: GET /assets/frota/icon.png
+2025-03-03T01:11:31: GET /assets/frota/adaptive-icon.png
+2025-03-03T01:11:36: GET /assets/frota/splash.png
+2025-03-03T01:11:36: GET /assets/frota/splash.png
+2025-03-03T01:11:36: GET /assets/frota/splash.png
+2025-03-03T01:11:36: GET /assets/frota/splash.png
+2025-03-03T01:11:36: GET /assets/frota/splash.png
+2025-03-03T01:23:07: POST /api/db/query
+2025-03-03T01:23:08: POST /api/db/query
+2025-03-03T01:23:08: POST /api/db/query
+2025-03-03T01:31:11: GET /assets/frota/icon.png
+2025-03-03T01:31:11: GET /assets/frota/splash.png
+2025-03-03T01:31:11: GET /assets/frota/adaptive-icon.png
+2025-03-03T01:31:17: GET /assets/frota/splash.png
+2025-03-03T01:31:17: GET /assets/frota/splash.png
+2025-03-03T01:31:17: GET /assets/frota/splash.png
+2025-03-03T01:31:17: GET /assets/frota/splash.png
+2025-03-03T01:31:17: GET /assets/frota/splash.png
+2025-03-03T01:40:49: GET /assets/frota/icon.png
+2025-03-03T01:40:49: GET /assets/frota/splash.png
+2025-03-03T01:40:49: GET /assets/frota/adaptive-icon.png
+2025-03-03T01:40:54: GET /assets/frota/splash.png
+2025-03-03T01:40:54: GET /assets/frota/splash.png
+2025-03-03T01:40:54: GET /assets/frota/splash.png
+2025-03-03T01:40:54: GET /assets/frota/splash.png
+2025-03-03T01:40:54: GET /assets/frota/splash.png
+2025-03-03T01:48:46: GET /assets/frota/icon.png
+2025-03-03T01:48:46: GET /assets/frota/adaptive-icon.png
+2025-03-03T01:48:46: GET /assets/frota/splash.png
+2025-03-03T01:48:52: GET /assets/frota/splash.png
+2025-03-03T01:48:52: GET /assets/frota/splash.png
+2025-03-03T01:48:52: GET /assets/frota/splash.png
+2025-03-03T01:48:52: GET /assets/frota/splash.png
+2025-03-03T01:48:52: GET /assets/frota/splash.png
+2025-03-03T02:00:08: GET /assets/frota/adaptive-icon.png
+2025-03-03T02:00:08: GET /assets/frota/splash.png
+2025-03-03T02:00:08: GET /assets/frota/icon.png
+2025-03-03T02:00:14: GET /assets/frota/splash.png
+2025-03-03T02:00:14: GET /assets/frota/splash.png
+2025-03-03T02:00:14: GET /assets/frota/splash.png
+2025-03-03T02:00:14: GET /assets/frota/splash.png
+2025-03-03T02:00:14: GET /assets/frota/splash.png
+2025-03-03T02:44:52: POST /api/db/query
+2025-03-03T02:44:53: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-03T02:44:56: POST /api/db/query
+2025-03-05T22:14:34: GET /
+2025-03-05T22:14:35: GET /assets/index-mZjD7jan.js
+2025-03-05T22:14:35: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-05T22:14:35: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-05T22:14:35: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-05T22:14:35: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-05T22:14:36: GET /assets/index-C1dOCbEu.css
+2025-03-05T22:14:36: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-05T22:14:36: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-05T22:14:36: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-05T22:14:36: GET /assets/vite-A9Lf-F21.svg
+2025-03-05T22:14:40: POST /api/auth/login
+2025-03-05T22:14:40: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-03-05T22:14:41: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-03-05T22:14:41: POST /api/db/query
+2025-03-05T22:14:52: POST /api/auth/login
+2025-03-05T22:14:52: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-03-05T22:14:53: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-03-05T22:14:53: POST /api/db/query
+2025-03-05T22:14:53: POST /api/db/query
+2025-03-11T12:46:44: GET /
+2025-03-11T12:46:45: GET /assets/index-mZjD7jan.js
+2025-03-11T12:46:45: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-11T12:46:45: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-11T12:46:45: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-11T12:46:45: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-11T12:46:45: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-11T12:46:45: GET /assets/index-C1dOCbEu.css
+2025-03-11T12:46:45: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-11T12:46:46: GET /assets/vite-A9Lf-F21.svg
+2025-03-11T12:46:46: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-11T14:16:20: GET /login
+2025-03-11T14:16:21: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-11T14:16:21: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-11T14:16:21: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-11T14:16:21: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-11T14:16:21: GET /assets/index-mZjD7jan.js
+2025-03-11T14:16:21: GET /assets/index-C1dOCbEu.css
+2025-03-11T14:16:21: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-11T14:16:21: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-11T14:16:22: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-11T14:16:22: GET /assets/vite-A9Lf-F21.svg
+2025-03-11T14:16:24: POST /api/auth/login
+2025-03-11T14:16:24: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-03-11T14:16:26: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-03-17T12:48:59: GET /
+2025-03-17T12:48:59: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-17T12:48:59: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-17T12:48:59: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-17T12:48:59: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-17T12:48:59: GET /assets/index-mZjD7jan.js
+2025-03-17T12:48:59: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-17T12:48:59: GET /assets/index-C1dOCbEu.css
+2025-03-17T12:48:59: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-17T12:49:00: GET /assets/vite-A9Lf-F21.svg
+2025-03-17T12:49:00: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-17T12:49:04: POST /api/auth/login
+2025-03-17T12:49:04: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-17T12:49:04: Senha inválida para: bruno@systemtruck.com.br
+2025-03-17T12:49:10: POST /api/auth/login
+2025-03-17T12:49:10: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-17T12:49:10: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:10: POST /api/db/query
+2025-03-17T12:49:15: POST /api/db/query
+2025-03-17T12:49:17: POST /api/db/query
+2025-03-17T12:49:17: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-03-17T12:49:17: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-03-17T12:49:19: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-03-17T12:49:25: POST /api/db/query
+2025-03-17T23:28:51: GET /
+2025-03-17T23:28:51: GET /assets/index-mZjD7jan.js
+2025-03-17T23:28:51: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-17T23:28:51: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-17T23:28:51: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-17T23:28:51: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-17T23:28:51: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-17T23:28:51: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-17T23:28:51: GET /assets/index-C1dOCbEu.css
+2025-03-17T23:28:52: POST /api/auth/verify
+2025-03-17T23:28:52: GET /assets/vite-A9Lf-F21.svg
+2025-03-17T23:28:53: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-17T23:30:09: POST /api/auth/login
+2025-03-17T23:30:09: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-03-17T23:30:09: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:09: POST /api/db/query
+2025-03-17T23:30:11: POST /api/db/query
+2025-03-17T23:30:11: POST /api/db/query
+2025-03-17T23:30:19: POST /api/auth/login
+2025-03-17T23:30:19: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-17T23:30:19: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-17T23:30:21: POST /api/db/query
+2025-03-17T23:30:46: POST /api/auth/login
+2025-03-17T23:30:46: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-03-17T23:30:47: Senha inválida para: logistica@ferrazflorestal.com.br
+2025-03-17T23:31:00: POST /api/auth/login
+2025-03-17T23:31:00: Tentativa de login para: logistica@ferrazflorestal.com.br
+2025-03-17T23:31:00: Login bem-sucedido para: logistica@ferrazflorestal.com.br
+2025-03-17T23:31:13: POST /api/auth/login
+2025-03-17T23:31:13: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-03-17T23:31:13: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-03-17T23:31:13: POST /api/db/query
+2025-03-17T23:31:20: POST /api/auth/login
+2025-03-17T23:31:20: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-17T23:31:20: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-17T23:31:22: POST /api/db/query
+2025-03-17T23:36:06: POST /api/db/query
+2025-03-20T10:26:38: GET /
+2025-03-20T10:26:38: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-20T10:26:38: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-20T10:26:38: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-20T10:26:38: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-20T10:26:39: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-20T10:26:39: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-20T10:26:39: GET /assets/index-C1dOCbEu.css
+2025-03-20T10:26:39: GET /assets/index-mZjD7jan.js
+2025-03-20T10:26:39: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-20T10:26:49: POST /api/auth/login
+2025-03-20T10:26:49: Tentativa de login para: bruna@systemtruck.com.br
+2025-03-20T10:26:49: Usuário não encontrado: bruna@systemtruck.com.br
+2025-03-20T10:26:58: POST /api/auth/login
+2025-03-20T10:26:58: Tentativa de login para: bruna@systemtruck.com.br
+2025-03-20T10:26:58: Usuário não encontrado: bruna@systemtruck.com.br
+2025-03-20T10:27:09: POST /api/auth/login
+2025-03-20T10:27:09: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-20T10:27:10: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:10: POST /api/db/query
+2025-03-20T10:27:12: POST /api/db/query
+2025-03-20T10:28:42: POST /api/db/query
+2025-03-20T10:28:43: POST /api/db/query
+2025-03-20T10:28:55: POST /api/db/query
+2025-03-20T10:28:55: POST /api/db/query
+2025-03-20T10:29:12: POST /api/db/query
+2025-03-20T10:29:12: POST /api/db/query
+2025-03-20T10:29:22: POST /api/db/query
+2025-03-20T10:29:24: GET /usuarios
+2025-03-20T10:29:24: POST /api/auth/verify
+2025-03-20T10:29:24: POST /api/db/query
+2025-03-20T11:55:24: GET /usuarios
+2025-03-20T11:55:24: POST /api/auth/verify
+2025-03-20T11:55:24: POST /api/db/query
+2025-03-20T11:57:26: POST /api/db/query
+2025-03-20T11:57:28: GET /usuarios
+2025-03-20T11:57:28: POST /api/auth/verify
+2025-03-20T11:57:28: POST /api/db/query
+2025-03-20T11:57:36: POST /api/auth/login
+2025-03-20T11:57:36: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-20T11:57:37: Senha inválida para: bruno@systemtruck.com.br
+2025-03-20T11:57:42: POST /api/auth/login
+2025-03-20T11:57:42: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-20T11:57:42: Senha inválida para: bruno@systemtruck.com.br
+2025-03-20T11:57:47: POST /api/auth/login
+2025-03-20T11:57:47: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-20T11:57:47: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:57:47: POST /api/db/query
+2025-03-20T11:59:27: POST /api/db/query
+2025-03-20T11:59:28: GET /usuarios
+2025-03-20T11:59:35: POST /api/auth/login
+2025-03-20T11:59:35: Tentativa de login para: bruno@systemtruck.com.br
+2025-03-20T11:59:35: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:35: POST /api/db/query
+2025-03-20T11:59:37: POST /api/db/query
+2025-03-20T11:59:50: POST /api/auth/login
+2025-03-20T11:59:50: Tentativa de login para: escritorio@shimizutransportes.com.br
+2025-03-20T11:59:51: Senha inválida para: escritorio@shimizutransportes.com.br
+2025-03-20T11:59:55: POST /api/auth/login
+2025-03-20T11:59:55: Tentativa de login para: escritorio@shimizutransportes.com.br
+2025-03-20T11:59:56: Login bem-sucedido para: escritorio@shimizutransportes.com.br
+2025-03-20T11:59:57: POST /api/db/query
+2025-03-20T11:59:57: POST /api/db/query
+2025-03-20T12:00:00: POST /api/db/query
+2025-03-20T12:00:00: POST /api/db/query
+2025-03-20T12:00:01: POST /api/db/query
+2025-03-20T12:00:02: POST /api/db/query
+2025-03-20T12:00:03: POST /api/db/query
+2025-03-20T12:00:04: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-03-20T12:00:04: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-03-20T12:00:35: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-03-20T12:00:39: POST /api/db/query
+2025-03-20T12:06:55: GET /
+2025-03-20T12:06:55: GET /assets/vite-A9Lf-F21.svg
+2025-03-20T12:06:55: GET /favicon.ico
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:11: POST /api/db/query
+2025-03-20T13:08:14: POST /api/db/query
+2025-03-20T13:08:14: POST /api/db/query
+2025-03-20T13:08:36: POST /api/db/query
+2025-03-20T13:08:39: POST /api/db/query
+2025-03-20T13:08:42: POST /api/db/query
+2025-03-20T13:08:46: POST /api/db/query
+2025-03-20T13:08:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-03-20T13:08:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-03-20T13:08:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-03-20T13:08:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-03-20T13:08:50: POST /api/db/query
+2025-03-20T13:09:07: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:01: POST /api/db/query
+2025-03-20T13:19:07: POST /api/db/query
+2025-03-20T13:19:07: POST /api/db/query
+2025-03-20T13:19:09: POST /api/db/query
+2025-03-20T13:19:09: POST /api/db/query
+2025-03-20T13:19:29: POST /api/db/query
+2025-03-20T13:19:31: POST /api/db/query
+2025-03-20T13:19:32: POST /api/db/query
+2025-03-20T13:19:36: POST /api/db/query
+2025-03-20T13:20:13: POST /api/db/query
+2025-03-20T13:20:13: POST /api/db/query
+2025-03-20T13:20:49: POST /api/db/query
+2025-03-20T13:20:50: POST /api/db/query
+2025-03-20T13:20:50: POST /api/db/query
+2025-03-20T13:20:50: POST /api/db/query
+2025-03-21T07:38:49: GET /
+2025-03-21T07:38:50: GET /assets/index-mZjD7jan.js
+2025-03-21T07:38:50: GET /assets/react-vendor-CboZNNVJ.js
+2025-03-21T07:38:50: GET /assets/utils-vendor-J5hPHYbm.js
+2025-03-21T07:38:50: GET /assets/index-C1dOCbEu.css
+2025-03-21T07:38:50: GET /assets/data-vendor-C_Zz7AX9.js
+2025-03-21T07:38:50: GET /assets/qr-vendor-BCBjzFLe.js
+2025-03-21T07:38:50: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-03-21T07:38:50: GET /assets/ui-vendor-D5EC1GQd.js
+2025-03-21T07:38:51: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-03-21T07:38:51: GET /assets/vite-A9Lf-F21.svg
+2025-03-21T07:39:33: POST /api/auth/login
+2025-03-21T07:39:33: Tentativa de login para: escritorio@shimizutransportes.com.br
+2025-03-21T07:39:33: Login bem-sucedido para: escritorio@shimizutransportes.com.br
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:39:33: POST /api/db/query
+2025-03-21T07:40:13: POST /api/db/query
+2025-03-21T07:40:13: POST /api/db/query
+2025-03-21T07:41:01: POST /api/db/query
+2025-03-21T07:41:01: POST /api/db/query
+2025-03-21T07:41:12: POST /api/db/query
+2025-03-21T07:41:43: POST /api/db/query
+2025-03-21T07:41:43: POST /api/db/query
+2025-03-21T07:41:52: POST /api/db/query
+2025-03-21T07:41:52: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-03-21T07:41:52: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-03-21T07:42:05: POST /api/db/query
+2025-03-21T07:42:15: POST /api/db/query
+2025-03-21T07:42:34: POST /api/db/query
+2025-03-21T07:43:01: POST /api/db/query
+2025-04-01T00:50:20: GET /
+2025-04-01T00:50:20: GET /assets/index-mZjD7jan.js
+2025-04-01T00:50:20: GET /assets/data-vendor-C_Zz7AX9.js
+2025-04-01T00:50:20: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-04-01T00:50:20: GET /assets/index-C1dOCbEu.css
+2025-04-01T00:50:20: GET /assets/ui-vendor-D5EC1GQd.js
+2025-04-01T00:50:20: GET /assets/qr-vendor-BCBjzFLe.js
+2025-04-01T00:50:20: GET /assets/react-vendor-CboZNNVJ.js
+2025-04-01T00:50:20: GET /assets/utils-vendor-J5hPHYbm.js
+2025-04-01T00:50:22: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-04-01T00:50:30: POST /api/auth/login
+2025-04-01T00:50:30: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-04-01T00:50:30: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-04-01T00:50:31: POST /api/db/query
+2025-04-01T00:50:31: POST /api/db/query
+2025-04-01T00:50:53: GET /m/login
+2025-04-01T00:51:02: POST /api/auth/login
+2025-04-01T00:51:02: Tentativa de login para: bruno@systemtruck.com.br
+2025-04-01T00:51:03: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:03: POST /api/db/query
+2025-04-01T00:51:10: POST /api/db/query
+2025-04-01T00:51:10: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-04-01T00:51:10: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-04-01T00:51:13: POST /api/db/query
+2025-04-01T00:51:13: POST /api/db/query
+2025-04-01T00:51:17: POST /api/db/query
+2025-04-01T00:51:21: POST /api/db/query
+2025-04-01T00:51:31: POST /api/db/query
+2025-04-01T00:51:31: POST /api/db/query
+2025-04-01T00:51:38: POST /api/db/query
+2025-04-01T00:51:46: POST /api/db/query
+2025-04-01T00:51:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-04-01T00:51:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-04-01T00:51:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-04-01T00:51:46: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-04-01T01:01:42: POST /api/db/query
+2025-04-01T01:01:42: POST /api/db/query
+2025-04-04T10:25:01: GET /
+2025-04-04T10:25:01: GET /assets/utils-vendor-J5hPHYbm.js
+2025-04-04T10:25:01: GET /assets/data-vendor-C_Zz7AX9.js
+2025-04-04T10:25:01: GET /assets/index-mZjD7jan.js
+2025-04-04T10:25:01: GET /assets/qr-vendor-BCBjzFLe.js
+2025-04-04T10:25:01: GET /assets/react-vendor-CboZNNVJ.js
+2025-04-04T10:25:01: GET /assets/ui-vendor-D5EC1GQd.js
+2025-04-04T10:25:01: GET /assets/index-C1dOCbEu.css
+2025-04-04T10:25:01: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-04-04T10:25:02: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-04-04T10:25:02: GET /assets/vite-A9Lf-F21.svg
+2025-04-19T08:43:03: GET /
+2025-04-19T08:43:03: GET /assets/utils-vendor-J5hPHYbm.js
+2025-04-19T08:43:03: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-04-19T08:43:03: GET /assets/qr-vendor-BCBjzFLe.js
+2025-04-19T08:43:03: GET /assets/index-mZjD7jan.js
+2025-04-19T08:43:03: GET /assets/react-vendor-CboZNNVJ.js
+2025-04-19T08:43:03: GET /assets/ui-vendor-D5EC1GQd.js
+2025-04-19T08:43:03: GET /assets/index-C1dOCbEu.css
+2025-04-19T08:43:03: GET /assets/data-vendor-C_Zz7AX9.js
+2025-04-19T08:43:04: POST /api/auth/verify
+2025-04-19T08:43:05: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-04-19T08:43:21: GET /m/login
+2025-04-19T08:43:29: POST /api/auth/login
+2025-04-19T08:43:29: Tentativa de login para: bruno@systemtruck.com.br
+2025-04-19T08:43:29: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:30: POST /api/db/query
+2025-04-19T08:43:37: POST /api/db/query
+2025-04-19T08:43:38: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-04-19T08:43:38: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-04-19T08:43:45: POST /api/db/query
+2025-04-19T08:43:45: POST /api/db/query
+2025-04-19T08:43:48: POST /api/db/query
+2025-04-19T08:43:50: POST /api/db/query
+2025-04-19T08:43:53: POST /api/db/query
+2025-05-12T10:28:38: Servidor rodando em http://localhost:3000
+2025-05-12T10:28:38: Servidor rodando em http://localhost:3000
+2025-05-12T10:28:39: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:28:39: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:28:49: Servidor rodando em http://localhost:3000
+2025-05-12T10:28:49: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:51:07: Servidor rodando em http://localhost:3000
+2025-05-12T10:51:07: Servidor rodando em http://localhost:3000
+2025-05-12T10:51:08: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:51:09: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:51:18: Servidor rodando em http://localhost:3000
+2025-05-12T10:51:18: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:52:45: Servidor rodando em http://localhost:3000
+2025-05-12T10:52:46: Servidor rodando em http://localhost:3000
+2025-05-12T10:52:46: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:52:46: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:52:56: Servidor rodando em http://localhost:3000
+2025-05-12T10:52:56: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:56:55: Servidor rodando em http://localhost:3000
+2025-05-12T10:56:55: Servidor rodando em http://localhost:3000
+2025-05-12T10:56:56: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:56:56: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:57:06: Servidor rodando em http://localhost:3000
+2025-05-12T10:57:06: Conexão com o banco de dados estabelecida com sucesso
+2025-05-12T10:58:27: GET /
+2025-05-12T10:58:27: GET /assets/index-mZjD7jan.js
+2025-05-12T10:58:27: GET /assets/utils-vendor-J5hPHYbm.js
+2025-05-12T10:58:27: GET /assets/data-vendor-C_Zz7AX9.js
+2025-05-12T10:58:27: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-05-12T10:58:27: GET /assets/index-C1dOCbEu.css
+2025-05-12T10:58:27: GET /assets/qr-vendor-BCBjzFLe.js
+2025-05-12T10:58:27: GET /assets/react-vendor-CboZNNVJ.js
+2025-05-12T10:58:27: GET /assets/ui-vendor-D5EC1GQd.js
+2025-05-12T10:58:28: GET /assets/vite-A9Lf-F21.svg
+2025-05-12T10:58:28: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-05-12T10:58:46: POST /api/auth/login
+2025-05-12T10:58:46: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T10:58:46: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T10:58:52: POST /api/auth/login
+2025-05-12T10:58:52: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T10:58:53: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T10:59:01: POST /api/auth/login
+2025-05-12T10:59:01: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T10:59:02: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T10:59:07: POST /api/auth/login
+2025-05-12T10:59:07: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T10:59:08: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T10:59:10: POST /api/auth/login
+2025-05-12T10:59:10: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T10:59:10: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-05-12T10:59:10: POST /api/db/query
+2025-05-12T10:59:10: POST /api/db/query
+2025-05-12T10:59:10: POST /api/db/query
+2025-05-12T10:59:10: POST /api/db/query
+2025-05-12T10:59:10: POST /api/db/query
+2025-05-12T10:59:11: POST /api/db/query
+2025-05-12T10:59:19: POST /api/db/query
+2025-05-12T10:59:19: POST /api/db/query
+2025-05-12T11:00:02: GET /
+2025-05-12T11:00:02: GET /assets/index-mZjD7jan.js
+2025-05-12T11:00:02: GET /assets/utils-vendor-J5hPHYbm.js
+2025-05-12T11:00:02: GET /assets/ui-vendor-D5EC1GQd.js
+2025-05-12T11:00:02: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-05-12T11:00:02: GET /assets/data-vendor-C_Zz7AX9.js
+2025-05-12T11:00:02: GET /assets/react-vendor-CboZNNVJ.js
+2025-05-12T11:00:02: GET /assets/qr-vendor-BCBjzFLe.js
+2025-05-12T11:00:02: GET /assets/index-C1dOCbEu.css
+2025-05-12T11:00:03: GET /assets/vite-A9Lf-F21.svg
+2025-05-12T11:00:03: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-05-12T11:00:08: POST /api/auth/login
+2025-05-12T11:00:08: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:09: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T11:00:19: POST /api/auth/login
+2025-05-12T11:00:19: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:19: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T11:00:26: POST /api/auth/login
+2025-05-12T11:00:26: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:26: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T11:00:38: POST /api/auth/login
+2025-05-12T11:00:38: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:38: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T11:00:42: POST /api/auth/login
+2025-05-12T11:00:42: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:43: Senha inválida para: bruno@systemtruck.com.br
+2025-05-12T11:00:47: POST /api/auth/login
+2025-05-12T11:00:47: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T11:00:47: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:48: POST /api/db/query
+2025-05-12T11:00:51: POST /api/db/query
+2025-05-12T11:01:13: POST /api/auth/login
+2025-05-12T11:01:13: Tentativa de login para: escritorio@shimizutransportes.com.br
+2025-05-12T11:01:13: Login bem-sucedido para: escritorio@shimizutransportes.com.br
+2025-05-12T11:01:20: GET /assets/index-mZjD7jan.js
+2025-05-12T11:01:22: POST /api/auth/verify
+2025-05-12T16:43:30: GET /m/login
+2025-05-12T19:33:58: POST /api/auth/login
+2025-05-12T19:33:58: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-05-12T19:33:58: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-05-12T19:33:59: POST /api/db/query
+2025-05-12T19:34:16: POST /api/auth/login
+2025-05-12T19:34:16: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-05-12T19:34:17: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-05-12T19:34:17: POST /api/db/query
+2025-05-12T19:34:17: POST /api/db/query
+2025-05-12T21:10:18: GET /
+2025-05-12T21:10:18: GET /assets/index-mZjD7jan.js
+2025-05-12T21:10:18: GET /assets/react-vendor-CboZNNVJ.js
+2025-05-12T21:10:18: GET /assets/data-vendor-C_Zz7AX9.js
+2025-05-12T21:10:18: GET /assets/utils-vendor-J5hPHYbm.js
+2025-05-12T21:10:18: GET /assets/qr-vendor-BCBjzFLe.js
+2025-05-12T21:10:18: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-05-12T21:10:18: GET /assets/ui-vendor-D5EC1GQd.js
+2025-05-12T21:10:18: GET /assets/index-C1dOCbEu.css
+2025-05-12T21:10:20: GET /assets/vite-A9Lf-F21.svg
+2025-05-12T21:10:20: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-05-12T21:10:25: POST /api/auth/login
+2025-05-12T21:10:25: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-12T21:10:25: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:25: POST /api/db/query
+2025-05-12T21:10:30: POST /api/db/query
+2025-05-12T21:10:47: POST /api/db/query
+2025-05-12T21:10:47: POST /api/db/query
+2025-05-12T21:11:05: POST /api/db/query
+2025-05-12T21:11:09: POST /api/db/query
+2025-05-12T21:11:11: POST /api/db/query
+2025-05-12T21:11:13: POST /api/db/query
+2025-05-12T21:11:16: POST /api/db/query
+2025-05-12T21:11:16: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/frente.jpg
+2025-05-12T21:11:16: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_direita.jpg
+2025-05-12T21:11:16: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/traseira.jpg
+2025-05-12T21:11:16: GET /uploads/checklists/e2cda158-06ea-48c1-b872-64eafa4efca5/lateral_esquerda.jpg
+2025-05-12T21:11:19: POST /api/db/query
+2025-05-12T21:11:20: GET /uploads/checklists/30ad78d4-079d-457e-8597-9447def4130d/traseira.jpg
+2025-05-12T21:11:20: GET /uploads/checklists/30ad78d4-079d-457e-8597-9447def4130d/lateral_esquerda.jpg
+2025-05-12T21:11:20: GET /uploads/checklists/30ad78d4-079d-457e-8597-9447def4130d/frente.jpg
+2025-05-12T21:11:20: GET /uploads/checklists/30ad78d4-079d-457e-8597-9447def4130d/lateral_direita.jpg
+2025-05-12T21:11:22: POST /api/db/query
+2025-05-12T21:11:22: GET /uploads/checklists/712fa087-219c-4490-9866-10772d1d979b/traseira.jpg
+2025-05-12T21:11:22: GET /uploads/checklists/712fa087-219c-4490-9866-10772d1d979b/lateral_direita.jpg
+2025-05-12T21:11:22: GET /uploads/checklists/712fa087-219c-4490-9866-10772d1d979b/lateral_esquerda.jpg
+2025-05-12T21:11:22: GET /uploads/checklists/712fa087-219c-4490-9866-10772d1d979b/frente.jpg
+2025-05-12T21:11:25: POST /api/db/query
+2025-05-12T21:11:25: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-05-12T21:11:25: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-05-12T21:11:28: GET /assets/fundo_cracha-CQ2yhMvz.jpg
+2025-05-13T22:41:24: GET /
+2025-05-13T22:41:24: GET /assets/react-vendor-CboZNNVJ.js
+2025-05-13T22:41:24: GET /assets/data-vendor-C_Zz7AX9.js
+2025-05-13T22:41:24: GET /assets/index-mZjD7jan.js
+2025-05-13T22:41:24: GET /assets/utils-vendor-J5hPHYbm.js
+2025-05-13T22:41:24: GET /assets/qr-vendor-BCBjzFLe.js
+2025-05-13T22:41:24: GET /assets/index-C1dOCbEu.css
+2025-05-13T22:41:24: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-05-13T22:41:24: GET /assets/ui-vendor-D5EC1GQd.js
+2025-05-13T22:41:26: GET /assets/vite-A9Lf-F21.svg
+2025-05-13T22:41:28: POST /api/auth/verify
+2025-05-13T22:41:28: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-05-13T22:41:36: POST /api/auth/login
+2025-05-13T22:41:36: Tentativa de login para: fuel@ferrazflorestal.com.br
+2025-05-13T22:41:37: Login bem-sucedido para: fuel@ferrazflorestal.com.br
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:37: POST /api/db/query
+2025-05-13T22:41:38: POST /api/db/query
+2025-05-13T22:41:38: POST /api/db/query
+2025-05-13T22:41:38: POST /api/db/query
+2025-05-13T22:42:07: POST /api/auth/login
+2025-05-13T22:42:07: Tentativa de login para: mobile@ferrazflorestal.com.br
+2025-05-13T22:42:07: Login bem-sucedido para: mobile@ferrazflorestal.com.br
+2025-05-13T22:42:08: POST /api/db/query
+2025-05-13T22:42:09: POST /api/db/query
+2025-05-13T22:42:33: POST /api/auth/login
+2025-05-13T22:42:33: Tentativa de login para: bruno@systemtruck.com.br
+2025-05-13T22:42:33: Login bem-sucedido para: bruno@systemtruck.com.br
+2025-05-13T22:42:35: POST /api/db/query
+2025-05-13T22:42:37: POST /api/db/query
+2025-05-13T22:42:45: POST /api/db/query
+2025-05-13T22:43:01: POST /api/db/query
+2025-05-13T22:43:03: POST /api/db/query
+2025-05-13T22:43:27: POST /api/db/query
+2025-05-13T22:43:31: POST /api/db/query
+2025-05-13T22:43:34: POST /api/db/query
+2025-05-13T22:43:39: POST /api/db/query
+2025-05-13T22:43:54: POST /api/db/query
+2025-05-13T22:43:54: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-05-13T22:43:54: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-05-13T22:43:57: POST /api/db/query
+2025-05-13T22:43:57: POST /api/db/query
+2025-05-13T22:44:06: POST /api/db/query
+2025-05-13T22:44:06: POST /api/db/query
+2025-05-13T22:44:12: POST /api/db/query
+2025-05-14T07:59:49: GET /
+2025-05-14T07:59:50: GET /assets/utils-vendor-J5hPHYbm.js
+2025-05-14T07:59:50: GET /assets/data-vendor-C_Zz7AX9.js
+2025-05-14T07:59:50: GET /assets/pdf-vendor-CrVXFKrF.js
+2025-05-14T07:59:50: GET /assets/ui-vendor-D5EC1GQd.js
+2025-05-14T07:59:50: GET /assets/index-mZjD7jan.js
+2025-05-14T07:59:50: GET /assets/react-vendor-CboZNNVJ.js
+2025-05-14T07:59:50: GET /assets/qr-vendor-BCBjzFLe.js
+2025-05-14T07:59:50: GET /assets/index-C1dOCbEu.css
+2025-05-14T07:59:51: GET /assets/vite-A9Lf-F21.svg
+2025-05-14T07:59:51: POST /api/auth/verify
+2025-05-14T07:59:51: GET /assets/systemtruck_logo-CpC4uIYe.png
+2025-05-14T08:01:36: POST /api/auth/login
+2025-05-14T08:01:36: Tentativa de login para: escritorio@shimizutransportes.com.br
+2025-05-14T08:01:36: Login bem-sucedido para: escritorio@shimizutransportes.com.br
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:37: POST /api/db/query
+2025-05-14T08:01:55: POST /api/db/query
+2025-05-14T08:02:00: POST /api/db/query
+2025-05-14T08:02:06: POST /api/db/query
+2025-05-14T08:02:55: POST /api/db/query
+2025-05-14T08:05:22: POST /api/db/query
+2025-05-14T08:05:22: POST /api/db/query
+2025-05-14T08:07:43: POST /api/db/query
+2025-05-14T08:09:06: POST /api/db/query
+2025-05-14T08:09:29: POST /api/db/query
+2025-05-14T08:09:30: POST /api/db/query
+2025-05-14T08:09:48: POST /api/db/query
+2025-05-14T08:09:48: POST /api/db/query
+2025-05-14T08:15:16: POST /api/db/query
+2025-05-14T08:15:16: POST /api/db/query
+2025-05-14T08:15:52: POST /api/db/query
+2025-05-14T08:15:52: POST /api/db/query
+2025-05-14T08:18:14: POST /api/db/query
+2025-05-14T08:18:14: POST /api/db/query
+2025-05-14T08:18:14: POST /api/db/query
+2025-05-14T08:19:49: POST /api/db/query
+2025-05-14T08:19:50: POST /api/db/query
+2025-05-14T08:21:19: POST /api/db/query
+2025-05-14T08:21:20: POST /api/db/query
+2025-05-14T08:22:14: POST /api/db/query
+2025-05-14T08:22:15: POST /api/db/query
+2025-05-14T08:28:08: POST /api/db/query
+2025-05-14T08:28:09: POST /api/db/query
+2025-05-14T08:28:56: POST /api/db/query
+2025-05-14T08:28:56: POST /api/db/query
+2025-05-14T08:29:44: POST /api/db/query
+2025-05-14T08:29:44: POST /api/db/query
+2025-05-14T08:31:54: POST /api/db/query
+2025-05-14T08:31:54: POST /api/db/query
+2025-05-14T08:31:54: POST /api/db/query
+2025-05-14T08:31:54: POST /api/db/query
+2025-05-14T08:31:54: POST /api/db/query
+2025-05-14T08:33:17: POST /api/db/query
+2025-05-14T08:33:18: POST /api/db/query
+2025-05-14T08:36:03: POST /api/db/query
+2025-05-14T08:36:03: POST /api/db/query
+2025-05-14T08:37:10: POST /api/db/query
+2025-05-14T08:37:10: POST /api/db/query
+2025-05-14T08:37:59: POST /api/db/query
+2025-05-14T08:37:59: POST /api/db/query
+2025-05-14T08:41:26: POST /api/db/query
+2025-05-14T08:41:26: POST /api/db/query
+2025-05-14T08:41:34: POST /api/db/query
+2025-05-14T08:41:45: POST /api/db/query
+2025-05-14T08:42:00: POST /api/db/query
+2025-05-14T08:42:01: GET /uploads/funcionarios/08708130647_1738331307790.jpg
+2025-05-14T08:42:01: GET /uploads/funcionarios/16979498606_1738719609638.jpg
+2025-05-14T08:42:09: POST /api/db/query
+2025-05-14T08:42:20: POST /api/db/query
+2025-05-14T08:42:30: POST /api/db/query
+2025-05-14T08:42:30: POST /api/db/query
+2025-05-14T08:42:30: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:43:32: POST /api/db/query
+2025-05-14T08:45:28: POST /api/db/query
+2025-05-14T08:45:28: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T08:50:56: POST /api/db/query
+2025-05-14T10:47:56: POST /api/db/query
+2025-05-14T10:47:56: POST /api/db/query
+2025-05-14T10:48:08: POST /api/db/query
+2025-05-14T10:48:08: POST /api/db/query
+2025-05-14T10:48:23: POST /api/db/query
+2025-05-14T10:48:29: POST /api/db/query
+2025-05-14T10:48:31: POST /api/db/query
+2025-05-14T10:48:34: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:48:46: POST /api/db/query
+2025-05-14T10:49:33: POST /api/db/query
+2025-05-14T10:49:33: POST /api/db/query
+2025-05-14T10:49:33: POST /api/db/query

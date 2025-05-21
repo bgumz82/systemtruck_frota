@@ -1,0 +1,201 @@
+2025-02-21T16:14:33: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-02-19T04:38:39.000Z
+}
+2025-03-02T17:11:49: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-03-01T03:44:04.000Z
+}
+2025-03-17T23:28:52: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-03-03T20:11:56.000Z
+}
+2025-03-20T10:28:43: Erro na consulta: error: could not determine data type of parameter $3
+    at C:\SYSTEMTRUCK\project\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\SYSTEMTRUCK\project\server.cjs:199:20 {
+  length: 133,
+  severity: 'ERROR',
+  code: '42P08',
+  detail: undefined,
+  hint: undefined,
+  position: '613',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_param.c',
+  line: '307',
+  routine: 'check_parameter_resolution_walker'
+}
+2025-03-20T10:28:55: Erro na consulta: error: could not determine data type of parameter $3
+    at C:\SYSTEMTRUCK\project\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\SYSTEMTRUCK\project\server.cjs:199:20 {
+  length: 133,
+  severity: 'ERROR',
+  code: '42P08',
+  detail: undefined,
+  hint: undefined,
+  position: '613',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_param.c',
+  line: '307',
+  routine: 'check_parameter_resolution_walker'
+}
+2025-03-20T10:29:12: Erro na consulta: error: could not determine data type of parameter $3
+    at C:\SYSTEMTRUCK\project\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\SYSTEMTRUCK\project\server.cjs:199:20 {
+  length: 133,
+  severity: 'ERROR',
+  code: '42P08',
+  detail: undefined,
+  hint: undefined,
+  position: '613',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_param.c',
+  line: '307',
+  routine: 'check_parameter_resolution_walker'
+}
+2025-04-19T08:43:04: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-04-02T03:51:03.000Z
+}
+2025-05-12T11:01:22: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-04-20T11:43:29.000Z
+}
+2025-05-13T22:41:28: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-05-14T00:10:25.000Z
+}
+2025-05-14T07:59:51: Erro na verificação do token: TokenExpiredError: jwt expired
+    at C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\SYSTEMTRUCK\project\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\SYSTEMTRUCK\project\server.cjs:165:25
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\layer.js:95:5)
+    at C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\SYSTEMTRUCK\project\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2025-03-22T10:39:33.000Z
+}
+2025-05-14T08:02:00: Erro na consulta: error: update or delete on table "veiculos" violates foreign key constraint "abastecimentos_veiculo_id_fkey" on table "abastecimentos"
+    at C:\SYSTEMTRUCK\project\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\SYSTEMTRUCK\project\server.cjs:199:20 {
+  length: 350,
+  severity: 'ERROR',
+  code: '23503',
+  detail: 'Key (id)=(2426d83a-cac2-422b-a923-5f84d4def60b) is still referenced from table "abastecimentos".',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'abastecimentos',
+  column: undefined,
+  dataType: undefined,
+  constraint: 'abastecimentos_veiculo_id_fkey',
+  file: 'ri_triggers.c',
+  line: '2621',
+  routine: 'ri_ReportViolation'
+}
+2025-05-14T08:02:06: Erro na consulta: error: update or delete on table "veiculos" violates foreign key constraint "abastecimentos_veiculo_id_fkey" on table "abastecimentos"
+    at C:\SYSTEMTRUCK\project\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\SYSTEMTRUCK\project\server.cjs:199:20 {
+  length: 350,
+  severity: 'ERROR',
+  code: '23503',
+  detail: 'Key (id)=(2426d83a-cac2-422b-a923-5f84d4def60b) is still referenced from table "abastecimentos".',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'abastecimentos',
+  column: undefined,
+  dataType: undefined,
+  constraint: 'abastecimentos_veiculo_id_fkey',
+  file: 'ri_triggers.c',
+  line: '2621',
+  routine: 'ri_ReportViolation'
+}
