@@ -1,64 +1,49 @@
-import axios from 'axios'
+import { createClient } from '@supabase/supabase-js'
+
+const supabase = createClient(
+  import.meta.env.VITE_SUPABASE_URL,
+  import.meta.env.VITE_SUPABASE_ANON_KEY
+)
 
 export async function signIn(email: string, password: string) {
   try {
-    const response = await axios.post('/api/auth/login', {
+    const { data, error } = await supabase.auth.signInWithPassword({
       email: email.trim(),
       password: password.trim()
-    }, {
-      headers: {
-        'Content-Type': 'application/json'
-      }
     })
     
-    if (!response.data || !response.data.user) {
+    if (error) {
+      throw error
+    }
+    
+    if (!data.user) {
       throw new Error('Resposta inválida do servidor')
     }
     
-    return response.data
+    return data
   } catch (error: any) {
     console.error('Erro de autenticação:', {
-      message: error.response?.data?.error || error.message,
+      message: error.message,
       name: error.name,
-      code: error.code,
-      status: error.response?.status
+      status: error.status
     })
     
-    if (error.response?.status === 404) {
-      throw new Error('Serviço de autenticação indisponível')
-    }
-    
-    if (error.response?.data?.error) {
-      throw new Error(error.response.data.error)
-    }
-    
-    if (error.response?.status === 401) {
+    if (error.message === 'Invalid login credentials') {
       throw new Error('Email ou senha incorretos')
+    }
+    
+    if (error.status === 404) {
+      throw new Error('Serviço de autenticação indisponível')
     }
     
     throw new Error('Erro ao fazer login. Tente novamente.')
   }
 }
 
-export async function getCurrentUser(token: string) {
+export async function getCurrentUser() {
   try {
-    if (!token) return null
-    
-    const response = await axios.post('/api/auth/verify', 
-      { token },
-      {
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${token}`
-        }
-      }
-    )
-    
-    if (!response.data || !response.data.id) {
-      return null
-    }
-    
-    return response.data
+    const { data: { session } } = await supabase.auth.getSession()
+    return session?.user || null
   } catch (error: any) {
     console.error('Erro ao obter usuário atual:', error)
     return null

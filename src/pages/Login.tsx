@@ -16,8 +16,8 @@ export default function Login() {
     setLoading(true)
 
     try {
-      const success = await signIn(email, password)
-      if (success) {
+      const { user } = await signIn(email, password)
+      if (user) {
         navigate('/')
       }
     } catch (error: any) {
