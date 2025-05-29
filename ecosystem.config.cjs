@@ -19,6 +19,13 @@ module.exports = {
     out_file: './logs/out.log',
     merge_logs: true,
     time: true,
-    windowsHide: true
+    windowsHide: true,
+    source_map_support: false,
+    autorestart: true,
+    cron_restart: '0 3 * * *', // Reinicia todos os dias às 3h da manhã
+    env_production: {
+      NODE_ENV: 'production',
+      PORT: 3000
+    }
   }]
 }
