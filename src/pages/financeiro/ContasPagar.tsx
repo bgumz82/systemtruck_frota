@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { format, parseISO } from 'date-fns'
 import toast from 'react-hot-toast'
@@ -8,6 +8,7 @@ import {
   PlusIcon,
   CheckIcon,
   BanknotesIcon,
+  ArrowPathIcon,
 } from '@heroicons/react/24/outline'
 import { getContasPagar, createContaPagar, updateContaPagar, deleteContaPagar, getCentrosCusto } from '@/lib/api/financeiro'
 import type { ContaPagar, ContaPagarCreate } from '@/lib/api/financeiro'
@@ -17,9 +18,17 @@ export default function ContasPagar() {
   const [selectedConta, setSelectedConta] = useState<ContaPagar | null>(null)
   const queryClient = useQueryClient()
 
-  const { data: contas, isLoading } = useQuery({
+  const { 
+    data: contas, 
+    isLoading,
+    refetch,
+    isRefetching
+  } = useQuery({
     queryKey: ['contas-pagar'],
-    queryFn: getContasPagar
+    queryFn: getContasPagar,
+    staleTime: 1000 * 30, // 30 segundos
+    refetchInterval: 1000 * 60, // 1 minuto
+    refetchOnWindowFocus: true
   })
 
   const { data: centrosCusto } = useQuery({
@@ -27,10 +36,16 @@ export default function ContasPagar() {
     queryFn: getCentrosCusto
   })
 
+  // Efeito para atualizar os dados quando a página é montada
+  useEffect(() => {
+    refetch();
+  }, [refetch]);
+
   const createMutation = useMutation({
     mutationFn: createContaPagar,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['contas-pagar'] })
+      queryClient.invalidateQueries({ queryKey: ['dashboard-financeiro'] })
       toast.success('Conta a pagar registrada com sucesso!')
       setIsModalOpen(false)
     },
@@ -45,6 +60,7 @@ export default function ContasPagar() {
       updateContaPagar(id, data),
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['contas-pagar'] })
+      queryClient.invalidateQueries({ queryKey: ['dashboard-financeiro'] })
       toast.success('Conta a pagar atualizada com sucesso!')
       setIsModalOpen(false)
     },
@@ -58,6 +74,7 @@ export default function ContasPagar() {
     mutationFn: deleteContaPagar,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ['contas-pagar'] })
+      queryClient.invalidateQueries({ queryKey: ['dashboard-financeiro'] })
       toast.success('Conta a pagar excluída com sucesso!')
     },
     onError: (error: any) => {
@@ -124,16 +141,26 @@ export default function ContasPagar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 md:px-8">
         <div className="flex justify-between items-center">
           <h1 className="text-2xl font-semibold text-gray-900">Contas a Pagar</h1>
-          <button
-            onClick={() => {
-              setSelectedConta(null)
-              setIsModalOpen(true)
-            }}
-            className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
-          >
-            <PlusIcon className="-ml-1 mr-2 h-5 w-5" />
-            Nova Conta a Pagar
-          </button>
+          <div className="flex space-x-3">
+            <button
+              onClick={() => refetch()}
+              className="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+              disabled={isRefetching}
+            >
+              <ArrowPathIcon className={`-ml-0.5 mr-2 h-4 w-4 ${isRefetching ? 'animate-spin' : ''}`} />
+              {isRefetching ? 'Atualizando...' : 'Atualizar'}
+            </button>
+            <button
+              onClick={() => {
+                setSelectedConta(null)
+                setIsModalOpen(true)
+              }}
+              className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
+            >
+              <PlusIcon className="-ml-1 mr-2 h-5 w-5" />
+              Nova Conta a Pagar
+            </button>
+          </div>
         </div>
 
         <div className="mt-8 flex flex-col">
