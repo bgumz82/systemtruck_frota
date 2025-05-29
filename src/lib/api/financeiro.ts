@@ -371,86 +371,91 @@ export interface FluxoCaixaItem {
 }
 
 export async function getDashboardFinanceiro(): Promise<DashboardFinanceiro> {
-  // Obter totais de contas a pagar e receber
-  const [
-    totalContasPagar,
-    totalContasReceber,
-    contasPagarVencidas,
-    contasReceberVencidas,
-    fluxoCaixa
-  ] = await Promise.all([
-    query(`
-      SELECT COALESCE(SUM(valor), 0) as total
-      FROM contas_pagar
-      WHERE status = 'pendente'
-    `),
-    query(`
-      SELECT COALESCE(SUM(valor), 0) as total
-      FROM contas_receber
-      WHERE status = 'pendente'
-    `),
-    query(`
-      SELECT COUNT(*) as total
-      FROM contas_pagar
-      WHERE status = 'pendente'
-      AND data_vencimento < CURRENT_DATE
-    `),
-    query(`
-      SELECT COUNT(*) as total
-      FROM contas_receber
-      WHERE status = 'pendente'
-      AND data_vencimento < CURRENT_DATE
-    `),
-    query(`
-      WITH meses AS (
-        SELECT generate_series(
-          date_trunc('month', CURRENT_DATE - interval '5 months'),
-          date_trunc('month', CURRENT_DATE + interval '1 month'),
-          '1 month'::interval
-        ) as mes
-      ),
-      entradas AS (
-        SELECT 
-          date_trunc('month', COALESCE(data_recebimento, data_vencimento)) as mes,
-          COALESCE(SUM(valor), 0) as valor
-        FROM contas_receber
-        WHERE status != 'cancelado'
-        GROUP BY mes
-      ),
-      saidas AS (
-        SELECT 
-          date_trunc('month', COALESCE(data_pagamento, data_vencimento)) as mes,
-          COALESCE(SUM(valor), 0) as valor
+  try {
+    // Obter totais de contas a pagar e receber
+    const [
+      totalContasPagar,
+      totalContasReceber,
+      contasPagarVencidas,
+      contasReceberVencidas,
+      fluxoCaixa
+    ] = await Promise.all([
+      query(`
+        SELECT COALESCE(SUM(valor), 0) as total
         FROM contas_pagar
-        WHERE status != 'cancelado'
-        GROUP BY mes
-      )
-      SELECT 
-        TO_CHAR(m.mes, 'YYYY-MM') as mes,
-        COALESCE(e.valor, 0) as entradas,
-        COALESCE(s.valor, 0) as saidas,
-        COALESCE(e.valor, 0) - COALESCE(s.valor, 0) as saldo
-      FROM meses m
-      LEFT JOIN entradas e ON date_trunc('month', e.mes) = m.mes
-      LEFT JOIN saidas s ON date_trunc('month', s.mes) = m.mes
-      ORDER BY m.mes
-    `)
-  ])
+        WHERE status = 'pendente'
+      `),
+      query(`
+        SELECT COALESCE(SUM(valor), 0) as total
+        FROM contas_receber
+        WHERE status = 'pendente'
+      `),
+      query(`
+        SELECT COUNT(*) as total
+        FROM contas_pagar
+        WHERE status = 'pendente'
+        AND data_vencimento < CURRENT_DATE
+      `),
+      query(`
+        SELECT COUNT(*) as total
+        FROM contas_receber
+        WHERE status = 'pendente'
+        AND data_vencimento < CURRENT_DATE
+      `),
+      query(`
+        WITH meses AS (
+          SELECT generate_series(
+            date_trunc('month', CURRENT_DATE - interval '5 months'),
+            date_trunc('month', CURRENT_DATE + interval '1 month'),
+            '1 month'::interval
+          ) as mes
+        ),
+        entradas AS (
+          SELECT 
+            date_trunc('month', COALESCE(data_recebimento, data_vencimento)) as mes,
+            COALESCE(SUM(valor), 0) as valor
+          FROM contas_receber
+          WHERE status != 'cancelado'
+          GROUP BY mes
+        ),
+        saidas AS (
+          SELECT 
+            date_trunc('month', COALESCE(data_pagamento, data_vencimento)) as mes,
+            COALESCE(SUM(valor), 0) as valor
+          FROM contas_pagar
+          WHERE status != 'cancelado'
+          GROUP BY mes
+        )
+        SELECT 
+          TO_CHAR(m.mes, 'YYYY-MM') as mes,
+          COALESCE(e.valor, 0) as entradas,
+          COALESCE(s.valor, 0) as saidas,
+          COALESCE(e.valor, 0) - COALESCE(s.valor, 0) as saldo
+        FROM meses m
+        LEFT JOIN entradas e ON date_trunc('month', e.mes) = m.mes
+        LEFT JOIN saidas s ON date_trunc('month', s.mes) = m.mes
+        ORDER BY m.mes
+      `)
+    ])
 
-  const totalPagar = parseFloat(totalContasPagar[0]?.total || '0')
-  const totalReceber = parseFloat(totalContasReceber[0]?.total || '0')
-  
-  return {
-    totalContasPagar: totalPagar,
-    totalContasReceber: totalReceber,
-    saldoPrevisto: totalReceber - totalPagar,
-    contasPagarVencidas: parseInt(contasPagarVencidas[0]?.total || '0'),
-    contasReceberVencidas: parseInt(contasReceberVencidas[0]?.total || '0'),
-    fluxoCaixa: fluxoCaixa.map(item => ({
-      mes: item.mes,
-      entradas: parseFloat(item.entradas),
-      saidas: parseFloat(item.saidas),
-      saldo: parseFloat(item.saldo)
-    }))
+    const totalPagar = parseFloat(totalContasPagar[0]?.total || '0')
+    const totalReceber = parseFloat(totalContasReceber[0]?.total || '0')
+    
+    return {
+      totalContasPagar: totalPagar,
+      totalContasReceber: totalReceber,
+      saldoPrevisto: totalReceber - totalPagar,
+      contasPagarVencidas: parseInt(contasPagarVencidas[0]?.total || '0'),
+      contasReceberVencidas: parseInt(contasReceberVencidas[0]?.total || '0'),
+      fluxoCaixa: fluxoCaixa.map(item => ({
+        mes: item.mes,
+        entradas: parseFloat(item.entradas),
+        saidas: parseFloat(item.saidas),
+        saldo: parseFloat(item.saldo)
+      }))
+    }
+  } catch (error) {
+    console.error('Erro ao obter dados do dashboard financeiro:', error)
+    throw error
   }
 }
