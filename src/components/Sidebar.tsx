@@ -10,6 +10,7 @@ import {
   BanknotesIcon,
   CurrencyDollarIcon,
   ReceiptRefundIcon,
+  DocumentChartBarIcon,
 } from '@heroicons/react/24/outline'
 import { useAuth } from '@/contexts/AuthContext'
 
@@ -42,6 +43,7 @@ export default function Sidebar() {
             { name: 'Centros de Custo', href: '/financeiro/centros-custo', icon: CurrencyDollarIcon },
             { name: 'Contas a Pagar', href: '/financeiro/contas-pagar', icon: ReceiptRefundIcon },
             { name: 'Contas a Receber', href: '/financeiro/contas-receber', icon: BanknotesIcon },
+            { name: 'Relatórios', href: '/financeiro/relatorios', icon: DocumentChartBarIcon },
           ]
         },
       ]

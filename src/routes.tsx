@@ -16,6 +16,7 @@ import DashboardFinanceiro from './pages/financeiro/Dashboard'
 import CentrosCusto from './pages/financeiro/CentrosCusto'
 import ContasPagar from './pages/financeiro/ContasPagar'
 import ContasReceber from './pages/financeiro/ContasReceber'
+import RelatoriosFinanceiros from './pages/financeiro/Relatorios'
 
 // Mobile Routes
 import MobileLogin from './pages/mobile/Login'
@@ -85,7 +86,7 @@ export function AppRoutes() {
       return <Navigate to="/m/login" replace />
     }
     if (!isMobile && location.pathname.startsWith('/m/')) {
-      return <Navigate to="/login\" replace />
+      return <Navigate to="/login" replace />
     }
 
     return (
@@ -199,6 +200,15 @@ export function AppRoutes() {
           element={
             <ProtectedRoute allowedRoles={['admin']}>
               <ContasReceber />
+            </ProtectedRoute>
+          }
+        />
+        
+        <Route
+          path="/financeiro/relatorios"
+          element={
+            <ProtectedRoute allowedRoles={['admin']}>
+              <RelatoriosFinanceiros />
             </ProtectedRoute>
           }
         />
