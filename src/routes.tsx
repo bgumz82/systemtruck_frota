@@ -11,6 +11,12 @@ import Users from './pages/Users'
 import Funcionarios from './pages/Funcionarios'
 import Layout from './components/Layout'
 
+// Financeiro
+import DashboardFinanceiro from './pages/financeiro/Dashboard'
+import CentrosCusto from './pages/financeiro/CentrosCusto'
+import ContasPagar from './pages/financeiro/ContasPagar'
+import ContasReceber from './pages/financeiro/ContasReceber'
+
 // Mobile Routes
 import MobileLogin from './pages/mobile/Login'
 import MobileHome from './pages/mobile/Home'
@@ -156,6 +162,43 @@ export function AppRoutes() {
           element={
             <ProtectedRoute allowedRoles={['admin']}>
               <Funcionarios />
+            </ProtectedRoute>
+          }
+        />
+
+        {/* Rotas do Financeiro */}
+        <Route
+          path="/financeiro/dashboard"
+          element={
+            <ProtectedRoute allowedRoles={['admin']}>
+              <DashboardFinanceiro />
+            </ProtectedRoute>
+          }
+        />
+        
+        <Route
+          path="/financeiro/centros-custo"
+          element={
+            <ProtectedRoute allowedRoles={['admin']}>
+              <CentrosCusto />
+            </ProtectedRoute>
+          }
+        />
+        
+        <Route
+          path="/financeiro/contas-pagar"
+          element={
+            <ProtectedRoute allowedRoles={['admin']}>
+              <ContasPagar />
+            </ProtectedRoute>
+          }
+        />
+        
+        <Route
+          path="/financeiro/contas-receber"
+          element={
+            <ProtectedRoute allowedRoles={['admin']}>
+              <ContasReceber />
             </ProtectedRoute>
           }
         />
