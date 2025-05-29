@@ -2,23 +2,45 @@ import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { ptBR } from 'date-fns/locale'
 import { Link } from 'react-router-dom'
+import { useEffect } from 'react'
 import {
   BanknotesIcon,
   ArrowTrendingUpIcon,
   ArrowTrendingDownIcon,
   ExclamationTriangleIcon,
-  PlusIcon,
+  ArrowPathIcon,
 } from '@heroicons/react/24/outline'
 import { getDashboardFinanceiro } from '@/lib/api/financeiro'
 
 export default function DashboardFinanceiro() {
-  const { data: stats, isLoading, error } = useQuery({
+  const { 
+    data: stats, 
+    isLoading, 
+    error, 
+    refetch,
+    isRefetching
+  } = useQuery({
     queryKey: ['dashboard-financeiro'],
     queryFn: getDashboardFinanceiro,
-    staleTime: 1000 * 60 * 5, // 5 minutes
+    staleTime: 1000 * 30, // Reduzido para 30 segundos
+    refetchInterval: 1000 * 60, // Atualiza automaticamente a cada 1 minuto
+    refetchOnWindowFocus: true, // Atualiza quando o usuário volta para a aba
     retry: 3,
     retryDelay: (attemptIndex) => Math.min(1000 * 2 ** attemptIndex, 30000)
   })
+
+  // Efeito para atualizar os dados quando a página é montada
+  useEffect(() => {
+    refetch();
+    
+    // Configurar um intervalo para atualizar os dados a cada 30 segundos
+    const intervalId = setInterval(() => {
+      refetch();
+    }, 30000);
+    
+    // Limpar o intervalo quando o componente for desmontado
+    return () => clearInterval(intervalId);
+  }, [refetch]);
 
   if (isLoading) {
     return (
@@ -39,6 +61,12 @@ export default function DashboardFinanceiro() {
           <p className="mt-1 text-sm text-gray-500">
             Por favor, tente novamente mais tarde.
           </p>
+          <button 
+            onClick={() => refetch()}
+            className="mt-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700"
+          >
+            Tentar novamente
+          </button>
         </div>
       </div>
     )
@@ -47,7 +75,17 @@ export default function DashboardFinanceiro() {
   return (
     <div className="py-6">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 md:px-8">
-        <h1 className="text-2xl font-semibold text-gray-900">Dashboard Financeiro</h1>
+        <div className="flex justify-between items-center">
+          <h1 className="text-2xl font-semibold text-gray-900">Dashboard Financeiro</h1>
+          <button
+            onClick={() => refetch()}
+            className="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+            disabled={isRefetching}
+          >
+            <ArrowPathIcon className={`-ml-0.5 mr-2 h-4 w-4 ${isRefetching ? 'animate-spin' : ''}`} />
+            {isRefetching ? 'Atualizando...' : 'Atualizar dados'}
+          </button>
+        </div>
       </div>
       <div className="mx-auto max-w-7xl px-4 sm:px-6 md:px-8">
         <div className="mt-8">
@@ -173,7 +211,12 @@ export default function DashboardFinanceiro() {
 
           {/* Fluxo de Caixa */}
           <div className="mt-8 bg-white shadow rounded-lg p-6">
-            <h2 className="text-lg font-medium text-gray-900 mb-4">Fluxo de Caixa</h2>
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-lg font-medium text-gray-900">Fluxo de Caixa</h2>
+              <div className="text-sm text-gray-500">
+                {isRefetching ? 'Atualizando...' : 'Última atualização: ' + new Date().toLocaleTimeString()}
+              </div>
+            </div>
             <div className="overflow-x-auto">
               <table className="min-w-full divide-y divide-gray-300">
                 <thead className="bg-gray-50">
